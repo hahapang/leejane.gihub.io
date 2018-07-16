@@ -4,7 +4,7 @@
 baseurl:
 url: https://leejane.org
 date_format: "ordinal"
-title: "既然不能安稳现世，那就拼命折腾吧！"
+title: 既然不能安稳就需要拼命折腾
 subtitle: "测试技巧汇总"
 description: "Jane的个人博客"
 keywords: Lee jane, jane, 测试
@@ -88,7 +88,7 @@ repository: mzlogin/mzlogin.github.io
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 #disqus:
-    username: 
+#   username: 
 # https://imsun.net/posts/gitment-introduction/
 #gitment:
 #    owner: leejane
